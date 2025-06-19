@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+jax_env/
+
+# Data
+*.png
+*.npy
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
